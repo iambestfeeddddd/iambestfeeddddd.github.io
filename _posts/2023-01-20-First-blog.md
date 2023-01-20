@@ -24,7 +24,6 @@ Tuy nói là một năm hơi tệ cơ mà năm qua mình có 1 vài trải nghi�
 1. Những lần thi Hackathon cùng một số người bạn. Thật lòng xin lỗi các bạn chứ lúc đó mình tạ vl :)))))))
 2. Những chuyến thực tập đi vào lòng đất vì cái nết chướng tính quen thói của mình :)))))
 3. Tháng ngày đi làm cho biết mùi đời nó bạc bẽo :))))
-4. Tí thì làm bố ở tuổi 19 (Cái này mình nói thật, cú sốc tuổi 19 thật chứ)
 5. Đi du lịch kiểu tự quyết vl :)))))))))
 
 ## Năm mới ăn hại mới
