@@ -6,6 +6,7 @@ categories:
   - code
   - deep learning
 permalink: /ensemble-learning-dl/
+toc: true
 classes: wide
 excerpt: Ensemble Learning 
 header:
