@@ -48,15 +48,6 @@ include:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-# Plugins (previously gems:)
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-  - jekyll-include-cache
-
 author:
   name   : "Nguyễn Đức Nhân"
   avatar : "/images/bio-photo.jpg"
