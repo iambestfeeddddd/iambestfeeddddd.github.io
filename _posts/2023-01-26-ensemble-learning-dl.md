@@ -13,6 +13,9 @@ header:
   og_image: /images/ensemble_learning_intro.jpg
   teaser: /images/ensemble_learning_intro.jpg
 ---
+* toc
+{:toc}
+
 Lá bài "Polymerization" là một lá bài hết sức quen thuộc và chắc cũng tính vào dạng tuổi thơ của bao người. Và để đưa bao người về với tuổi thơ, hôm nay mình viết về một chủ đề rất thông dụng trong các cuộc thi và có thể coi là cực kỳ hiệu quả - Ensemble learning. 
 
 # Ensemble learning on Machine learning:
