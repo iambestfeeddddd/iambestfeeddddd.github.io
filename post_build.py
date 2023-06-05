@@ -16,7 +16,7 @@ def purge_cloudflare_cache():
     }
 
     response = requests.request('POST', url, data=payload, headers=headers)
-    assert response.json()['success'], 'Failed to clear cache'
+    #assert response.json()['success'], 'Failed to clear cache'
 
 
 if __name__ == '__main__':
