@@ -9,6 +9,13 @@ permalink: /benchmark_i2i_problem/
 classes: wide
 excerpt: Image-to-image problem
 ---
+> ## Table of Contents
+> 
+> 1.  [Image-to-image translation:](#image-to-image-translation)
+> 2.  [Một số lập luận:](#mot-so-lap-luan)
+> 3.  [Chúng ta cần gì ở một thang đo cho bài toán Image-to-image:](#chung-ta-can-gi-o-mot-thang-do-cho-bai-toan-image-to-image)
+> 4.  [Điều gì còn bỏ ngỏ:](#dieu-gi-con-bo-ngo)
+
 # Image-to-image translation:
 I2I là 1 task trong CV khi người ta cố dạy cho máy tính biết cách biến đổi từ ảnh đầu vào để được 1 ảnh đầu ra đảm bảo những ràng được quy định (các ràng buộc này có thể là text, là style của ảnh, ...). 2 yếu tố quyết định chính của bài toán này là **ảnh đầu vào** và **ràng buộc**. 
 
